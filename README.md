@@ -2,6 +2,7 @@
 Flujo de potencia DC y Análisis de Contingencias N-1
 
 **REPRESENTACIÓN MATRICIAL DE LA RED**
+
 *Flujo de carga DC y análisis de contingencias*
 
 En este proyecto desarrollamos el *Flujo de carga DC* para un sistema electrico de 57 nodos conociendo así su funcionamiento en condiciones normales, posteriormente a esto realizamos el *Analisis de contingencias N-1* con lo cual se podrá identicar el impacto que posee la pérdida de una línea en el sistema.
